@@ -1,4 +1,4 @@
-# safelinemonitor 雷池 WAF 汇总监控看板
+# safeline dashboard 雷池 WAF 汇总监控看板
 
 把多台雷池（SafeLine）WAF 的监控指标拉到同一个页面展示。后端用雷池开放接口定时采集、内存聚合，前端用 ECharts 渲染，零第三方依赖，`node server.js` 即可运行。
 
